@@ -1,9 +1,49 @@
 [
 {
+     "name":"DBL38-01S",
+     "author":"BANDAI NAMCO",
+     "url":"https://github.com/737songoku/DB-Legends/raw/main/db_legends_6.jpg",
+     "collections":"DB_Legends",
+     "dimensions":"4096 x 4096 px",
+     "copyright":"All Rights Reserved",
+     "downloadable":true
+  
+  },
+{
+     "name":"DBL27-06S",
+     "author":"BANDAI NAMCO",
+     "url":"https://github.com/737songoku/DB-Legends/raw/main/db_legends_7.jpg",
+     "collections":"DB_Legends",
+     "dimensions":"4096 x 4096 px",
+     "copyright":"All Rights Reserved",
+     "downloadable":true
+  
+  },
+{
+     "name":"DBL27-06S (1)",
+     "author":"BANDAI NAMCO",
+     "url":"https://github.com/737songoku/DB-Legends/raw/main/db_legends_5.jpg",
+     "collections":"DB_Legends",
+     "dimensions":"2048 x 2048 px",
+     "copyright":"All Rights Reserved",
+     "downloadable":true
+  
+  },
+{
+     "name":"DBL-EVT-39S",
+     "author":"BANDAI NAMCO",
+     "url":"https://github.com/737songoku/DB-Legends/raw/main/db_legends_3.jpg",
+     "collections":"DB_Legends",
+     "dimensions":"2048 x 2048 px",
+     "copyright":"All Rights Reserved",
+     "downloadable":true
+  
+  },
+{
      "name":"DBL18-06S",
      "author":"BANDAI NAMCO",
      "url":"https://github.com/737songoku/DB-Legends/raw/main/db_legends_2.jpg",
-     "collections":"Future Trunks Saga (S)",
+     "collections":"DB_Legends",
      "dimensions":"2048 x 2048 px",
      "copyright":"All Rights Reserved",
      "downloadable":true
@@ -13,7 +53,7 @@
      "name":"DBL50-03S",
      "author":"BANDAI NAMCO",
      "url":"https://github.com/737songoku/DB-Legends/raw/main/db_legends_1.jpg",
-     "collections":"Future Trunks Saga (S)",
+     "collections":"DB_Legends",
      "dimensions":"4096 x 4096 px",
      "copyright":"All Rights Reserved",
      "downloadable":true
