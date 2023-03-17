@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Sunset",
       "imageUrl": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_1.",
-      "category": "db_legends"
+      "category": "DB Legends"
     },
     {
       "id": 2,
       "name": "Forest",
       "imageUrl": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_1.",
-      "category": "db_legends"
+      "category": "DB Legends"
     },
     {
       "id": 3,
       "name": "Mountain",
       "imageUrl": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_3.",
-      "category": "db_legends"
+      "category": "DB Legends"
     }
   ]
 }
