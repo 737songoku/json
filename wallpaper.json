@@ -1,26 +1,16 @@
 {
-  "wallpapers": [
-    {
-      "id": 1,
-      "name": "Goku Black",
-      "imageUrl": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_1.",
-      "category": "DB Legends"
-    },
-    {
-      "id": 2,
-      "name": "Super Saiyan Rose",
-      "imageUrl": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_1.",
-      "category": "DB Legends"
-    },
-    {
-      "id": 3,
-      "name": "Super Saiyan Rose 2",
-      "imageUrl": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_3.",
-      "category": "DB Legends"
-    }
-  ]
+   "wallpapers": [
+      {
+         "id": 1,
+         "url": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_1.jpg"
+      },
+      {
+         "id": 2,
+         "url": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_2.jpg"
+      },
+      {
+         "id": 3,
+         "url": "https://github.com/737songoku/DB-Legends/raw/main/db_legends_3.jpg"
+      }
+   ]
 }
-
-
-
-
