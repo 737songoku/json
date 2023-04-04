@@ -1,15 +1,24 @@
 [
 	{
-		"name": "one",
-		"url": "https://i.postimg.cc/wvXVCFjK/Cover.jpg"
+		"name": "Super Saiyan God SS Vegito",
+		"url": "https://imgur.com/BxfGr0Y.jpg",
+		"dimensions": "1730x2400",
+		"copyright": "©BIRD STUDIO/SHUEISHA, TOEI ANIMATION",
+		"collections": "DBS"
 	},
 	{
-		"name": "two",
-		"url": "https://i.postimg.cc/8CYs9p2X/Fsq-ICX5-Xg-AEcyf-M.jpg"
+		"name": "DBL04-01S",
+		"url": "https://imgur.com/8d1kq70.jpg",
+		"dimensions": "4096x4096",
+		"copyright": "©2018 Bandai Namco Entertainment Inc.",
+		"collections": "DB Legends"
 	},
 	{
-		"name": "three",
-		"url": "gs://redribbonarmy-f4df3.appspot.com/2022-10-02_02-03-57.jpg"
+		"name": "DBL57-02S",
+		"url": "https://imgur.com/7CRXHcI.jpg",
+		"dimensions": "4096x4096",
+		"copyright": "©2018 Bandai Namco Entertainment Inc.",
+		"collections": "DB Legends"
 	},
 	{
 		"name": "DBL57-03S",
